@@ -11,10 +11,6 @@
       "excludePackageNames": ["prettier"]
     }
   ],
-  "XXX lockFileMaintenance": {
-    "enabled": true,
-    "schedule": ["before 3am on Monday"]
-  },
   "ignoreDeps": ["lerna", "lerna-changelog", "@types/node"],
   "ignorePaths": ["archive/**", "examples/**"],
   "assignees": ["@trentm"],
